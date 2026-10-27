@@ -1,0 +1,6 @@
+{
+  "name": "CoinRunner.Editor",
+  "references": ["CoinRunner.Runtime", "Unity.TextMeshPro", "UnityEngine.UI", "Unity.2D.Tilemap.Editor"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

@@ -1,0 +1,6 @@
+{
+  "skyColor": { "r": 0.66, "g": 0.84, "b": 0.96, "a": 1 },
+  "groundColor": { "r": 0.48, "g": 0.3, "b": 0.16, "a": 1 },
+  "spikePositions": [ { "x": 11, "y": -3 }, { "x": 16.5, "y": -3 }, { "x": 19.5, "y": -3 } ],
+  "productName": "CoinRunner_FC231024"
+}
