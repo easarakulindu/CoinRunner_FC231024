@@ -1,0 +1,5 @@
+{
+  "name": "CoinRunner.Runtime",
+  "references": ["Unity.TextMeshPro", "UnityEngine.UI"],
+  "autoReferenced": true
+}
