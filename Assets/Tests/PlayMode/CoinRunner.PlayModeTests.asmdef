@@ -1,0 +1,6 @@
+{
+  "name": "CoinRunner.PlayModeTests",
+  "references": ["CoinRunner.Runtime", "Unity.TextMeshPro", "UnityEngine.UI"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
